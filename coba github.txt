@@ -1,2 +1,3 @@
 - Belajar fitur awalan github
-  ^ Belajar Frontend, Backend
+  ^ Belajar Frontend 
+  ^ Belajar Backend
